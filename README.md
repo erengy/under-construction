@@ -1,7 +1,5 @@
 # Under Construction
 
-![](screenshot.png)
-
 A simple HTML document designed to be used as the temporary home page of a website.
 
 ## Usage
