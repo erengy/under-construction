@@ -4,8 +4,6 @@
 
 A simple HTML document designed to be used as the temporary home page of a website.
 
-Note that the document language is set to `tr-TR` for Turkish, because that is usually what I need. The paragraph text reads: *"Our website is under construction."*
-
 ## Usage
 
 1. Edit `index.html` in order to change the title and the header.
